@@ -12,5 +12,18 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 ---
 
+## Executando o projeto
+
+```bash
+pip install -r requirements.txt
+pip install -r requirements-dev.txt
+```
+
+Para rodar os testes:
+
+```bash
+pytest -q tests
+```
+
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
